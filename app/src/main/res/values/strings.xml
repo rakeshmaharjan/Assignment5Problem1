@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment5Problem1</string>
+    <string name="question1">1. How many types of Intents are there in Android?</string>
+    <string name="question2">2. What does data in Kotlin class does?</string>
+
+    <string name="q1_option1">Two Types</string>
+    <string name="q1_option2">Three Types</string>
+    <string name="q1_option3">None</string>
+
+    <string name="q2_option1">All primary constructor parameters need to be marked as val or var.</string>
+    <string name="q2_option2">Does Nothing.</string>
+    <string name="q2_option3">The primary constructor should not have parameter.</string>
+
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <string name="heading">Each question carries 50 points</string>
+</resources>
